@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="search_your_recipes">Search Your Recipes…</string>
+    <string name="meal_categories">Meal Categories</string>
+
+    <!--Bottom Navigation bar String files here... -->
+    <string name="foodHome">Home</string>
+    <string name="foodSearch">Search</string>
+    <string name="foodCart">Cart</string>
+    <string name="foodOffers">Offers</string>
+    <string name="foodAccount">Account</string>
+
+
+    <string name="loginText">Login to Your Account</string>
+    <string name="orderLoginText">To Order amazing food on Food App, Please login or create
+    a account with Food App.</string>
+
+    <string name="supportText">Support</string>
+    <string name="faqText">FAQs</string>
+    <string name="termsConditionText">Terms and Condition</string>
+
+
+    <!--Login & SignUp Screen Strings here....-->
+    <string name="etName">Full Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etMobile">Mobile Number</string>
+    <string name="etYourMobile">Your Mobile Number</string>
+    <string name="etPassword">Password</string>
+
+    <string name="logInText">LOG IN</string>
+    <string name="signUPText">SIGN UP</string>
+    <string name="alreadyAccText">Already have an account?</string>
+    <string name="loginTextLink">Login</string>
+    <string name="forgotText">Forgot Password?</string>
+    <string name="forgotTextToolbar">Forgot Password</string>
+    <string name="textOR">OR</string>
+    <string name="sendOTP">Send OTP</string>
+
+    <string name="btnGoplusLogin">Login with Google</string>
+    <string name="btnFBLogin">Login with Facebook</string>
+</resources>
